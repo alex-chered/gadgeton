@@ -29,6 +29,10 @@
   </usedMobileApplicationFunctionalities>
   <mainSectionPicture/>
   <defaultLanguage>Language.Русский</defaultLanguage>
+  <briefInformation>
+    <key>ru</key>
+    <value>Проект интернет-магазина GadgetOn</value>
+  </briefInformation>
   <logo/>
   <splash/>
   <dataLockControlMode>Managed</dataLockControlMode>
